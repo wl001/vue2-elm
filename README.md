@@ -1,20 +1,35 @@
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
  
 > build
+
 > config
+
 > images
+
 > src
+
 >> assets
+
 >> common/fonts
+
 >> components
+
 >> mock
+
 >> router
+
 >> App.vue
+
 >> filter.js
+
 >> main.js
+
 > static
+
 > .babelrc
+
 > index.html
+
 > package.json
 
 
