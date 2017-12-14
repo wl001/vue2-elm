@@ -1,5 +1,8 @@
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
-
+ 
+>>> 请问 Markdwon 怎么用？ - 小白
+>> 自己看教程！ - 愤青
+> 教程在哪？ - 小白
 ``` bash
 # install dependencies
 npm install
