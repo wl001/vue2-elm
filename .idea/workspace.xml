@@ -4,7 +4,119 @@
     <bookmark url="file://$PROJECT_DIR$/src/components/shopcart/shopcart.vue" line="350" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ca88a9f-adeb-452a-9ad5-48d7e5db871e" name="默认的" comment="" />
+    <list default="true" id="3ca88a9f-adeb-452a-9ad5-48d7e5db871e" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖01_商品页.mkm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖01_商品页.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖01_商品页_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖02_商品页_公告及优惠信息.mkm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖02_商品页_公告及优惠信息.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖02_商品页_公告及优惠信息_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖03_商品页_购物车详情.mkm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖03_商品页_购物车详情.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖03_商品页_购物车详情_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖04_商品页面_商品详情.mkm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖04_商品页面_商品详情.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖04_商品页面_商品详情_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖05_评价页.mkm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖05_评价页.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖05_评价页_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖06_商家页.mkm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖06_商家页.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖06_商家页_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/add_circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/arrow_lift.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/check_circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/favorite.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/keyboard_arrow_right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/remove_circle_outline.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/shopping_cart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/thumb_down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/thumb_up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/icon_@2x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/icon_@3x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_24px_@2x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_24px_@3x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_36px_@2x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_36px_@3x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_48px_@2x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_48px_@3x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/brand@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/brand@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/bulletin@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/bulletin@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_1@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_1@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_2@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_3@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_4@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_4@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_1@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_1@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_2@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_3@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_4@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_4@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_1@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_1@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_2@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_3@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_4@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_4@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_1@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_1@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_2@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_3@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_4@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_4@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_1@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_1@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_2@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_3@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_4@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_4@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_half@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_half@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_off@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_off@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_on@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_on@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_half@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_half@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_off@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_off@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_on@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_on@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_half@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_half@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_off@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_off@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_on@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_on@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖01_商品页.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖02_商品页_公告及优惠信息.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖03_商品页_购物车详情.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖04_商品页面_商品详情.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖05_评价页.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖06_商家页.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖01_商品页_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖02_商品页_公告及优惠信息_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖03_商品页_购物车详情_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖04_商品页面_商品详情_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖05_评价页_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖06_商家页_spec.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="webpack-elmwm.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +149,7 @@
       <file leaf-file-name="mock.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mock/mock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20610687">
+            <state vertical-scroll-proportion="0.28496042">
               <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
               <folding />
             </state>
@@ -47,7 +159,7 @@
       <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.361111">
+            <state vertical-scroll-proportion="0.0">
               <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
               <folding />
             </state>
@@ -266,7 +378,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -320,6 +431,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,7 +533,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24756919" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2844365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -429,7 +541,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291592" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981302" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25939178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25939178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -501,56 +613,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/bulletin@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/PSD/star_48px_@3x.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/PSD/star_48px_@2x.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/PSD/star_36px_@3x.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/PSD/star_36px_@2x.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/PSD/star_24px_@3x.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/PSD/star_24px_@2x.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/common/fonts/sell-icon.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/star24_half@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/star24_half@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/star/star24_off@2x.png">
@@ -568,22 +635,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/img/decrease_2@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header/decrease_2@3x.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header/decrease_2@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/外卖01_商品页.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -804,7 +861,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.361111">
+        <state vertical-scroll-proportion="0.0">
           <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
           <folding />
         </state>
@@ -812,7 +869,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mock/mock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20610687">
+        <state vertical-scroll-proportion="0.28496042">
           <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding />
         </state>
