@@ -1,10 +1,5 @@
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
 
-- [x] 改进 LaTex 功能
-
-        - [x] 修复 LaTex 公式渲染问题
-        
-        - [x] 新增 LaTex 公式编号功能
         
 ``` bash
 # install dependencies
