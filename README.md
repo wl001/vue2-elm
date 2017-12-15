@@ -3,12 +3,12 @@
  * build                        // webpack配置文件
  * config                       // 项目打包路径
  * images                       //示例图片
- * build                        // webpack配置文件
- * config                       // 项目打包路径
- * images                       //示例图片
- * build                        // webpack配置文件
- * config                       // 项目打包路径
- * images                       //示例图片
+ * src                         // webpack配置文件
+     * config                       // 项目打包路径
+     * images                       //示例图片
+     * build                        // webpack配置文件
+     * config                       // 项目打包路径
+     * images                       //示例图片
  
  
  
