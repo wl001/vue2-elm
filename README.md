@@ -8,7 +8,7 @@
      * common/fonts             // 字体文件
      * components               // 组件
      * mock                     // 模拟数据
-     * router                   // 路由配置
+     * mock                  // 路由配置
      * App.vue                  // 页面入口文件
      * filter.js                // 自定义过滤器和js存储库
      * main.js                  // 程序入口文件，加载各种公共组件
