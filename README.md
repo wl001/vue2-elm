@@ -1,12 +1,19 @@
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
  
- * build                        // webpack配置文件/
+ * build                        // webpack配置文件/ 
+ 
  * config                       // 项目打包路径/
+ 
  * images                       //示例图片/
+ 
  * src                          // 源码目录/
+ 
      * assets
+     
      * common/fonts             // 字体文件/
+     
      * components               // 组件/
+     
      * mock                     // 模拟数据/
      
      * router                     
