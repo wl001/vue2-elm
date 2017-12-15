@@ -1,9 +1,13 @@
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
  
 |——
+
 |
+
 |
+
 |
+
 |
 > build
 
