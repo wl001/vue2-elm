@@ -1,5 +1,9 @@
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
  
+ * 编程语言  
+    * 脚本语言  
+        * Python  
+ 
 > build                                                       // webpack配置文件
 
 > config                                                      // 项目打包路径
@@ -13,8 +17,6 @@
 >> common/fonts                                               // 字体文件
 
 >>> cartcontrol                                               //增加减少购买商品的按钮组件
-
->>>> cartcontrol.vue
 
 >> components                                                 // 组件
 
