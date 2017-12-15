@@ -1,22 +1,27 @@
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
  
- * 编程语言  
-    * 脚本语言  
-        * Python  
- 
-> build                                                       // webpack配置文件
-
-> config                                                      // 项目打包路径
-
-> images                                                      //示例图片
- 
-> src                                                         // 源码目录
+ * build   // webpack配置文件
+ * config   // 项目打包路径
+ * images   //示例图片
+ * src      // 源码目录
+     * assets
+     * common/fonts   
+     * components  
+     * mock  
+     * router  
+     * App.vue    
+     * filter.js   
+     * main.js      
+ * static
+ * .babelrc
+ * index.html // 入口html文件
+ * package.json  
+                           
 
 >> assets
 
 >> common/fonts                                               // 字体文件
 
->>> cartcontrol                                               //增加减少购买商品的按钮组件
 
 >> components                                                 // 组件
 
