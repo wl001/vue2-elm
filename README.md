@@ -1,38 +1,12 @@
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
  
-.
-├── build                                       // webpack配置文件
+> build                     // webpack配置文件
 
-├── config                                      // 项目打包路径
+> config                        // 项目打包路径
 
-├── elm                                         // 上线项目文件，放在服务器即可正常访问
-
-├── screenshots                                 // 项目截图
-├── src                                         // 源码目录
-
-│   ├── components                              // 组件
-
-│   │   ├── common                              // 公共组件
-
-│   │   │   ├── computeTime.vue                 // 倒计时组件
-
-│   │   ├── footer
-
-│   │   │   └── footGuide.vue                   // 底部公共组件
-
-│   │   └── header
-
-│   │       └── head.vue                        // 头部公共组件
-
-
-.
-> build
-
-> config
-
-> images
-
-> src
+> images                    //示例图片
+ 
+> src                   // 源码目录
 
 >> assets
 
