@@ -15,5 +15,10 @@ npm run build --report
 ```						
 ##### 项目路径
 
-|---11            
-|====1         
+|--- build            
+|--- config
+|--- images
+|--- src
+|--- static
+|--- index.html
+|--- package.json
