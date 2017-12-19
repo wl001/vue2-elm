@@ -16,9 +16,8 @@ npm run build --report
 ##### 项目路径
 
 |--- build            
-|--- config
-|--- images
-|--- src
-|--- static
-|--- index.html
-|--- package.json
+|--- config  
+|--- aaaaa
+|----aasda
+|----
+|aaaaa
