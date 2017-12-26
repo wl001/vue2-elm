@@ -1,6 +1,3 @@
- ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
-
-
 ##### 项目目录
 ``` bash
 ├── build                                       // webpack配置文件
@@ -39,6 +36,10 @@
 ├── index.html                                  // 入口html文件
 ```
 
+##### 技术栈
+> 用webpack搭建的脚手架配合vue2和路由router、ES6语法、flex布局、axios数据交互、mock前后端数据分离
+
+ ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
 
 ``` bash
 # install dependencies
