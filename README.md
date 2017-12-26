@@ -41,7 +41,8 @@
 
 #### 项目运行
  ![image](https://github.com/wl001/vue2-elm/blob/master/images/elm.gif)
-
+ 
+#####项目下载
 ``` bash
 # install dependencies
 npm install
